@@ -131,3 +131,12 @@ dmypy.json
 # data folder
 Data/
 data/
+
+#filetypes
+.csv
+.xlsx
+.twb
+.hyper
+VideoDecodeStats/
+shared_proto_db/
+databases-incognito/
